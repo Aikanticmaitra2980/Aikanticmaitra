@@ -1,8 +1,4 @@
 # 💫 About Me:
-Here are a few options for your GitHub profile README, ranging from tech-focused to modern and clean. You can copy and paste the one that best fits your vibe, then update the placeholder links!
-
-Option 1: Clean, Modern, and Tech-Focused (Recommended)
-This structure strikes a great balance between your hackathon projects, academic background, and technical toolkit.
 
 Markdown
 # Hi there, I'm Aikantic! 👋
