@@ -5,7 +5,7 @@
 I am a B.Tech student at the Government College of Engineering and Leather Technology (GCELT), deeply passionate about software development, open-source communities, and building with Generative AI. I love turning ideas into functional MVPs and collaborating in fast-paced hackathons.
 
 ## 🚀 What I'm Up To
-- 🛠️ Building and refining **Loan Buddy** – a smart financial assistant powered by Google AI technologies.
+
 - 💻 Recently built **The Minimalist** MVP for the Vibe Coding Hackathon.
 - 🌐 Actively participating in open-source programs and developer communities like Aperture 3.0.
 - 🧠 Diving deeper into foundation models, Generative AI engineering, and Databricks.
@@ -41,8 +41,7 @@ B.Tech Student | Open-Source Enthusiast | GenAI Developer
 ### About Me:
 - 🎓 Engineering student at GCELT, Kolkata.
 - 💡 Passionate about building intelligent applications using Python and Generative AI.
-- 👥 Part of team **Rapid Debuggers**—always ready for the next hackathon challenge.
-- 🌱 Currently learning advanced data engineering and cloud AI workflows.
+
 
 ### 🛠️ Tech Toolkit:
 `Python` | `Data Structures` | `Git` | `Google AI Technologies` | `Databricks`|`Backend`
