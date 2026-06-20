@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-# Hi there, I'm Aikantic! 👋
+ Hi there, I'm Aikantic! 👋
 
 I am a B.Tech student at the Government College of Engineering and Leather Technology (GCELT), deeply passionate about software development, open-source communities, and building with Generative AI. I love turning ideas into functional MVPs and collaborating in fast-paced hackathons.
 
