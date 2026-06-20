@@ -1,5 +1,56 @@
 # 💫 About Me:
-Right now I am in first year college. Interested in Data science , ML and AI field
+Here are a few options for your GitHub profile README, ranging from tech-focused to modern and clean. You can copy and paste the one that best fits your vibe, then update the placeholder links!
+
+Option 1: Clean, Modern, and Tech-Focused (Recommended)
+This structure strikes a great balance between your hackathon projects, academic background, and technical toolkit.
+
+Markdown
+# Hi there, I'm Aikantic! 👋
+
+I am a B.Tech student at the Government College of Engineering and Leather Technology (GCELT), deeply passionate about software development, open-source communities, and building with Generative AI. I love turning ideas into functional MVPs and collaborating in fast-paced hackathons.
+
+## 🚀 What I'm Up To
+- 🛠️ Building and refining **Loan Buddy** – a smart financial assistant powered by Google AI technologies.
+- 💻 Recently built **The Minimalist** MVP for the Vibe Coding Hackathon.
+- 🌐 Actively participating in open-source programs and developer communities like Aperture 3.0.
+- 🧠 Diving deeper into foundation models, Generative AI engineering, and Databricks.
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, C, Data Structures & Algorithms
+- **AI & Data:** Google Cloud Skills Boost (GenAI), Databricks, Foundation Models
+- **Tools & Platforms:** Git, GitHub, Linux
+
+## 🏆 Hackathons & Achievements
+- **Team Rapid Debuggers** | Hacktonix '26 Participant
+- **Amazon Nova AI Hackathon** | Devpost Builder
+- **Kshitij, IIT Kharagpur** | Tech Workshop Attendee
+
+---
+
+## 📬 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/aikantic-maitra-118b48362
+
+)
+- **Devfolio:** https://devfolio.co/@aikantic_maitra
+- **Email:** maitraaikantic@gmail.com
+
+*“Debugging is twice as hard as writing the code in the first place.”*
+Option 2: Short, Sweet, and Punchy
+If you prefer a minimalist profile that gets straight to the point.
+
+Markdown
+# 👋 Hello World, I'm Aikantic Maitra!
+
+B.Tech Student | Open-Source Enthusiast | GenAI Developer
+
+### About Me:
+- 🎓 Engineering student at GCELT, Kolkata.
+- 💡 Passionate about building intelligent applications using Python and Generative AI.
+- 👥 Part of team **Rapid Debuggers**—always ready for the next hackathon challenge.
+- 🌱 Currently learning advanced data engineering and cloud AI workflows.
+
+### 🛠️ Tech Toolkit:
+`Python` | `Data Structures` | `Git` | `Google AI Technologies` | `Databricks`|`Backend`
 
 
 ## 🌐 Socials:
